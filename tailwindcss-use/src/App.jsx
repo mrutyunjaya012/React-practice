@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-    <h1 className="bg-amber-900 h-20 w-3px p-4 border-2 rounded-2xl ">
+    <h1 className="bg-amber-900 h-20 w-3px p-4 border-2 rounded-2xl fixed">
         Hello Guys
       </h1>
     <Carts username='The beautiful sun' hobby={hobby1}/>
